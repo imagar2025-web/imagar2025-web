@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre] 
+# 👋 ¡Hola! Soy Ivan 
 
 ### 🚀 Sobre mí
 Soy un apasionado de la tecnología enfocado en Desarrollo Full Stack. Me encanta crear soluciones innovadoras y actualmente busco colaborar en proyectos de Código abierto o IA.
