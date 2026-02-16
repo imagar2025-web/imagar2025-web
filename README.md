@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre] 
 
-<!--
-**imagar2025-web/imagar2025-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+Soy un apasionado de la tecnología enfocado en Desarrollo Full Stack. Me encanta crear soluciones innovadoras y actualmente busco colaborar en proyectos de Código abierto o IA.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en: La_caza 
+- 🌱 Estoy aprendiendo: Vue,boostrap 
+-]💬 Pregúntame sobre: Js,java,php,sql 
+-📧 Cómo contactarme: imagar2025@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+Para mis proyectos suelo utilizar:
+JavaScript
+React
+NodeJS
+php
+Java
+
+---
+
+
+### 🤝 Conectemos
+LinkedIn www.linkedin.com/in/ivan-martin-garcia-4a19a63a4
+Portafolio Personal
